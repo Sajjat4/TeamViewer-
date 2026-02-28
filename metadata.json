@@ -1,0 +1,5 @@
+{
+  "name": "Nexus: Search & Act Agent",
+  "description": "A web-based AI agent that combines real-time web search with actionable execution steps, inspired by Perplexity and Open Interpreter.",
+  "requestFramePermissions": []
+}
